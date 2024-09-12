@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 Engaged in personal projects in Machine Learning.<br> 📚 Constantly learning the nitty-gritty of machine learning, deep learning, natural language processing, and AI.<br> 🌍 Passionate about understanding how these technologies come together to solve real-world problems.<br> 🤓 Feel free to ask me anything about data science!
+💡 Engaged in personal projects in Machine Learning.<br> 📚 Constantly learning the nitty-gritty of machine learning, deep learning, natural language processing, and AI.<br> 🌍 Passionate about understanding how these technologies come together to solve real-world problems.<br> 🤓 Feel free to ask me anything about data science! <br> 📚 Learning ADVANCED PYTHON FOR DATA ANALYSIS And MACHINE LEARNING @ stepbystepcompetence.se
 
 
 ## 🌐 Socials:
